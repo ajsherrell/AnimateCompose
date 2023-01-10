@@ -1,5 +1,7 @@
 # Compose Animation Codelab
 
+Learning to animate compose UI element by Google codelab. 
+
 This folder contains the source code for the
 [Compose Animation](https://developer.android.com/codelabs/android-compose-animation)
 codelab.
